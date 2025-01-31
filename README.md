@@ -1,9 +1,5 @@
-## Hi there 👋
 
-<!--
-**luh-silva12/luh-silva12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Olá !
+# Olá  !
 
 Meu nome é Luciana  e sou estudante de **Análise e Desenvolvimento de Sistemas**. Estou atualmente cursando um programa da **Oracle com a Alura** e estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos e crescer profissionalmente.
 
@@ -31,3 +27,8 @@ Um jogo simples onde o jogador deve adivinhar um número escolhido aleatoriament
 ---
 
 Vamos juntos construir soluções incríveis e inovadoras! 🚀
+
+<!--
+**luh-silva12/luh-silva12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
